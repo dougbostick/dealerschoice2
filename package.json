@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "nodemon dealerschoice.js"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15"
+  }
+}
